@@ -1,0 +1,20 @@
+[api-updater (non-obsolete-error-filter)] 2022/02/21 17:45:40 : Starting /Users/rikito/Desktop/App/Unity/2020.3.29f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 150.654ms
+moved types parse time: 49ms
+candidates parse time : 1ms
+C# parse time         : 241ms
+candidates check time : 42ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2022/02/21 23:02:09 : Starting /Users/rikito/Desktop/App/Unity/2020.3.29f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 154.897ms
+moved types parse time: 44ms
+candidates parse time : 1ms
+C# parse time         : 227ms
+candidates check time : 51ms
+console write time    : 0ms
+
